@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.b{
+  text-align: center;
+}
+
+.p{
+  display: flex;
+  background-color: red;
+}
+
+.f{
+   text-align: center;
+   width: 25%;
+}
